@@ -1,0 +1,39 @@
+LICENSES APPLICABLE TO KITWARE COPYRIGHTED SOFTWARE FILES
+
+        The referenced software and all information and expression are the property of Kitware, Inc. All Rights Reserved.
+
+        The US Government only has the following licenses, which are applicable to all the files listed below.
+
+                                            LICENSES
+
+1. Government Unlimited Rights
+
+Applies to files in group 1 below.
+
+Group 1:
+	check_direction.m
+	draw_lines_in_img.m
+	extract_lsd.m
+	filter_out_small_vp_group.m
+	horizon.m
+	horizon_detection.m
+	img2gaussPoint.m
+	img2pt.m
+	j_linkage_vp2.m
+	jacobian_image_to_pt.m
+	jacobian_line_pair_to_image.m
+	least_square_vp.m
+	max_log_vp.m
+	merge_split_vps2.m
+	merge_vp.m
+	merge_vps_angle_based.m
+	min_error_vp.m
+	optimize_vp.m
+	p_of_lseg_given_v_probability.m
+	pre_process_lsegs.m
+	randInt.m
+	show_vps_and_lsegs.m
+	sort_lsegs.m
+	split_vps_into_VH.m
+	vp_probability_EM.m
+	vpCostFun.m
