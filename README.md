@@ -1,7 +1,9 @@
 This is the MATLAB software package for horizon detection on a single image paper [Xu et al. CVPR 2013](Xu_A_Minimum_Error_2013_CVPR_paper.pdf).
 Use the following citation:
 
-	Xu, Yiliang, Sangmin Oh, and Anthony Hoogs. "A minimum error vanishing point detection approach for uncalibrated monocular images of man-made environments." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1376-1383. 2013.
+	Xu, Yiliang, Sangmin Oh, and Anthony Hoogs. 
+	"A minimum error vanishing point detection approach for uncalibrated monocular images of man-made environments." 
+	In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1376-1383. 2013.
 
 BibTex
 
